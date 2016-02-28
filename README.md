@@ -1,2 +1,2 @@
 # flask-mysqladmin
-flask mysqladmin
+flask mysqladmin start
